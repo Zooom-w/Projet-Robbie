@@ -24,3 +24,4 @@ Ceci est mon tout premier projet de développement web, et chaque ligne de code 
 
 1. Clonez ce référentiel sur votre machine locale.
  
+![Screenshot 2024-01-24 at 10-07-07 Accueil - Robbie Lens Photographie](https://github.com/Zooom-w/Projet-Robbie/assets/148760503/fe0b9758-e5b4-4eed-9c2f-ec4c965922f5)
